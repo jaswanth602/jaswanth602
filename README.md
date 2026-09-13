@@ -91,7 +91,7 @@ Database Integration
 
 </td> </tr> </table> <br>
 <div align="center">
-05 — GITHUB ANALYTICS
+04 — GITHUB ANALYTICS
 
 <br><br>
 
@@ -100,10 +100,10 @@ Database Integration
 06 — CONTRIBUTION ACTIVITY
 <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="95%" /> </div> <br>
 <div align="center">
-07 — CURRENTLY
+05 — CURRENTLY
 <br> <table> <tr> <td align="center">💻</td> <td><b>Building</b></td> <td>Full-Stack Applications</td> </tr> <tr> <td align="center">📚</td> <td><b>Learning</b></td> <td>Better Software Engineering</td> </tr> <tr> <td align="center">🧠</td> <td><b>Improving</b></td> <td>Problem Solving & Code Quality</td> </tr> <tr> <td align="center">🚀</td> <td><b>Exploring</b></td> <td>Modern Technologies</td> </tr> <tr> <td align="center">🎯</td> <td><b>Goal</b></td> <td>Build Software That Matters</td> </tr> </table> </div> <br>
 <div align="center">
-08 — PHILOSOPHY
+06 — PHILOSOPHY
 <br>
 Think → Build → Learn → Improve → Ship
 <br>
@@ -112,7 +112,7 @@ Think → Build → Learn → Improve → Ship
 
 </div> <br>
 <div align="center">
-09 — LET'S CONNECT
+07 — LET'S CONNECT
 <br> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /> </a>
 
 <br><br>
