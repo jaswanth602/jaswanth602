@@ -1,123 +1,182 @@
-<div align="center">
-👋 Hey, I'm Jas Jaswanth
-Software Engineer · Full-Stack Developer · Problem Solver
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Turning+ideas+into+software;Learning+%7C+Building+%7C+Improving;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing animation" /> <br> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /> </a> &nbsp; <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" /> </a> &nbsp; <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" /> </a>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=180&section=header&text=Jas%20Jaswanth&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18&descColor=00D9FF" width="100%" /> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Turning+ideas+into+software;Learning+%7C+Building+%7C+Improving;Welcome+to+my+GitHub+%F0%9F%9A%80" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square" /> </div>
-> whoami
+<a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /> </a> &nbsp; <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" /> </a> &nbsp; <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" /> </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square" /> </div> <br>
+<div align="center">
+01 — ABOUT ME
+</div> <table align="center"> <tr> <td width="55%" valign="top">
+👨‍💻 Who I Am
+
+I'm a Software Engineer & Full-Stack Developer passionate about building modern, responsive, and reliable web applications.
+
+I enjoy working across the stack — creating clean user interfaces, developing backend functionality, and designing database-driven applications.
+
+I'm continuously learning, experimenting, and improving the way I build software.
+
+</td> <td width="45%" valign="top">
 const jas = {
-    role: "Software Engineer",
-    focus: "Full-Stack Development",
-    frontend: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
-    backend: ["Java", "PHP"],
-    database: ["MySQL"],
-    mindset: "Build → Learn → Improve → Repeat 🚀"
+  role: "Software Engineer",
+  focus: "Full-Stack Development",
+
+  frontend: [
+    "React",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Bootstrap"
+  ],
+
+  backend: [
+    "Java",
+    "PHP"
+  ],
+
+  database: "MySQL",
+
+  mindset:
+    "Build • Learn • Improve"
 };
 
-
-I'm a Software Engineer and Full-Stack Developer passionate about creating modern, responsive, and reliable web applications.
-
-I enjoy working across the stack — from crafting user interfaces and frontend experiences to developing backend functionality and database-driven applications.
-
-I'm continuously learning, experimenting with new technologies, and improving the way I build software.
-
-⚡ Tech Stack
+</td> </tr> </table> <br>
 <div align="center">
-Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-Backend
-<img src="https://skillicons.dev/icons?i=java,php" />
-Database & Tools
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" /> </div>
-🧠 What I Like Building
-<table align="center"> <tr> <td align="center" width="33%">
-🎨 Frontend
+02 — TECH STACK
+<br> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,php,mysql,git,github,vscode&perline=6" />
 
-Responsive interfaces
-Modern UI
-Interactive experiences
-Component-based applications
+<br><br>
+
+HTML   CSS   JavaScript   React   Bootstrap
+
+Java   PHP   MySQL   Git   GitHub   VS Code
+
+</div> <br>
+<div align="center">
+03 — WHAT I BUILD
+</div> <table align="center"> <tr> <td align="center" width="33%">
+🎨 FRONTEND
+
+Responsive UI
+
+React Applications
+
+Interactive Experiences
+
+Modern Web Interfaces
 
 </td> <td align="center" width="33%">
-⚙️ Backend
+⚙️ BACKEND
 
-Application logic
-APIs
-Server-side development
-Business functionality
+Application Logic
+
+REST APIs
+
+Server-Side Development
+
+Business Functionality
 
 </td> <td align="center" width="33%">
-🗄️ Data
+🗄️ DATABASE
 
-MySQL databases
-Data-driven applications
-Database design
-CRUD operations
+MySQL
 
-</td> </tr> </table>
-🚀 Featured Projects
+Data-Driven Apps
+
+CRUD Operations
+
+Database Integration
+
+</td> </tr> </table> <br>
 <div align="center">
-🔥 Projects that represent my journey
-</div>
-01 — Project Name
+04 — FEATURED PROJECTS
+<br>
+🚀 Selected Work
+</div> <table align="center"> <tr> <td width="50%" valign="top">
+🔷 Project One
 
-Short description of your project and the problem it solves.
+Full-Stack Application
 
-Stack: React Java MySQL
+A short description explaining what the application does and the problem it solves.
 
-🔗 View Project
+Stack
 
-02 — Project Name
+React Java MySQL
 
-Short description of your project and the problem it solves.
+<br> <a href="YOUR_PROJECT_URL"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=flat-square&logo=github&logoColor=0D1117" /> </a> </td> <td width="50%" valign="top">
+🟣 Project Two
 
-Stack: PHP JavaScript MySQL
+Web Application
 
-🔗 View Project
+A short description explaining what the application does and the problem it solves.
 
-03 — Project Name
+Stack
 
-Short description of your project and the problem it solves.
+PHP JavaScript MySQL
 
-Stack: HTML CSS JavaScript Bootstrap
+<br> <a href="YOUR_PROJECT_URL"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=flat-square&logo=github&logoColor=0D1117" /> </a> </td> </tr> <tr> <td width="50%" valign="top">
+🟢 Project Three
 
-🔗 View Project
+Responsive Web Application
 
-📊 GitHub Analytics
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117" /> </div>
-🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" /> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" /> </div>
-🌱 Currently
-┌───────────────────────────────────────────────┐
-│                                               │
-│  💻 Building      →  Full-Stack Applications │
-│  📚 Learning      →  Better Engineering      │
-│  🧠 Improving     →  Problem Solving         │
-│  🚀 Exploring     →  Modern Technologies     │
-│  🎯 Goal          →  Build Impactful Software│
-│                                               │
-└───────────────────────────────────────────────┘
+A short description explaining what the application does and the problem it solves.
 
-💡 My Development Philosophy
+Stack
+
+HTML CSS JavaScript Bootstrap
+
+<br> <a href="YOUR_PROJECT_URL"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=flat-square&logo=github&logoColor=0D1117" /> </a> </td> <td width="50%" valign="top">
+🟠 Project Four
+
+Coming Soon
+
+More projects, experiments, and ideas are on the way.
+
+<br><br>
+
+BUILDING...
+
+</td> </tr> </table> <br>
 <div align="center">
+05 — GITHUB ANALYTICS
+<br> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" />
+
+  
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" /> </div> <br>
+<div align="center">
+06 — CONTRIBUTION ACTIVITY
+<br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="95%" /> </div> <br>
+<div align="center">
+07 — CURRENTLY
+<br> <table> <tr> <td align="center">💻</td> <td><b>Building</b></td> <td>Full-Stack Applications</td> </tr> <tr> <td align="center">📚</td> <td><b>Learning</b></td> <td>Better Software Engineering</td> </tr> <tr> <td align="center">🧠</td> <td><b>Improving</b></td> <td>Problem Solving & Code Quality</td> </tr> <tr> <td align="center">🚀</td> <td><b>Exploring</b></td> <td>Modern Technologies</td> </tr> <tr> <td align="center">🎯</td> <td><b>Goal</b></td> <td>Build Software That Matters</td> </tr> </table> </div> <br>
+<div align="center">
+08 — PHILOSOPHY
+<br>
+Think → Build → Learn → Improve → Ship
+<br>
 
 "Don't just write code. Build something useful."
 
+</div> <br>
+<div align="center">
+09 — LET'S CONNECT
+<br> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /> </a>
+
+<br><br>
+
+Open to opportunities, collaborations & interesting projects.
+
 <br>
 
-Think → Design → Build → Test → Improve → Ship 🚀
-
-</div>
-🤝 Let's Connect
-<div align="center">
-
-I'm always open to connecting with developers, engineers, recruiters, and people who enjoy building with technology.
-
-<br> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
-<div align="center">
 BUILD • LEARN • IMPROVE • REPEAT
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" /> </div>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=100&section=footer" width="100%" /> </div>
