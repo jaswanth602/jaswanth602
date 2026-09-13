@@ -1,103 +1,123 @@
+<div align="center">
 👋 Hey, I'm Jas Jaswanth
 Software Engineer · Full-Stack Developer · Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Turning+ideas+into+software;Learning+%7C+Building+%7C+Improving;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing animation" /> <br> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /> </a> &nbsp; <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" /> </a> &nbsp; <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" /> </a>
 
-I turn ideas into clean, functional, and user-focused software.
+<br><br>
 
-I’m a Software Engineer passionate about building modern web applications, solving real-world problems, and continuously improving my engineering skills.
-
-I enjoy working across the stack — from designing responsive interfaces to developing backend logic and working with databases.
-
-🧭 What I Do
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🎨 FRONTEND          ⚙️ BACKEND           🗄️ DATABASE     │
-│                                                             │
-│   React                Java                 MySQL            │
-│   JavaScript           PHP                                   │
-│   HTML                 APIs                                  │
-│   CSS                                                        │
-│   Bootstrap                                                  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-🛠️ My Toolkit
-
-Languages
-
-Java · PHP · JavaScript · HTML · CSS
-
-Frameworks & Libraries
-
-React · Bootstrap
-
-Database
-
-MySQL
-
-Development
-
-Web Applications · REST APIs · Responsive UI · Full-Stack Development
-
-🚀 Things I'm Building
-
-I’m focused on creating projects that are more than just demos.
-
-💡 Build → Learn → Improve
-Idea
-  ↓
-Design
-  ↓
-Develop
-  ↓
-Test
-  ↓
-Improve
-  ↓
-Ship 🚀
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square" /> </div>
+> whoami
+const jas = {
+    role: "Software Engineer",
+    focus: "Full-Stack Development",
+    frontend: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
+    backend: ["Java", "PHP"],
+    database: ["MySQL"],
+    mindset: "Build → Learn → Improve → Repeat 🚀"
+};
 
 
-My goal is to build applications that are useful, maintainable, responsive, and scalable.
+I'm a Software Engineer and Full-Stack Developer passionate about creating modern, responsive, and reliable web applications.
 
-📂 Featured Work
+I enjoy working across the stack — from crafting user interfaces and frontend experiences to developing backend functionality and database-driven applications.
 
-A selection of projects that represent my development journey.
+I'm continuously learning, experimenting with new technologies, and improving the way I build software.
 
-Project	Stack	What I Built
-🚀 Project One	React · Java · MySQL	Full-stack web application
-⚡ Project Two	PHP · JavaScript · MySQL	Database-driven application
-🎨 Project Three	HTML · CSS · Bootstrap	Responsive web interface
+⚡ Tech Stack
+<div align="center">
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+Backend
+<img src="https://skillicons.dev/icons?i=java,php" />
+Database & Tools
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" /> </div>
+🧠 What I Like Building
+<table align="center"> <tr> <td align="center" width="33%">
+🎨 Frontend
 
-🔗 Project links will be added as the portfolio grows.
+Responsive interfaces
+Modern UI
+Interactive experiences
+Component-based applications
 
-📈 My GitHub Journey
-        CODE
-         │
-         ▼
-      BUILD 🛠️
-         │
-         ▼
-      LEARN 📚
-         │
-         ▼
-      IMPROVE 📈
-         │
-         ▼
-      REPEAT 🔁
+</td> <td align="center" width="33%">
+⚙️ Backend
 
+Application logic
+APIs
+Server-side development
+Business functionality
 
-Every repository represents another step in my journey as a software engineer.
+</td> <td align="center" width="33%">
+🗄️ Data
 
-🎯 Currently
-💻 Building and improving full-stack applications
-🌱 Strengthening my software engineering fundamentals
-🔍 Exploring better development practices
-🚀 Working toward building production-ready software
-📚 Learning something new every day
+MySQL databases
+Data-driven applications
+Database design
+CRUD operations
+
+</td> </tr> </table>
+🚀 Featured Projects
+<div align="center">
+🔥 Projects that represent my journey
+</div>
+01 — Project Name
+
+Short description of your project and the problem it solves.
+
+Stack: React Java MySQL
+
+🔗 View Project
+
+02 — Project Name
+
+Short description of your project and the problem it solves.
+
+Stack: PHP JavaScript MySQL
+
+🔗 View Project
+
+03 — Project Name
+
+Short description of your project and the problem it solves.
+
+Stack: HTML CSS JavaScript Bootstrap
+
+🔗 View Project
+
+📊 GitHub Analytics
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117" /> </div>
+🔥 Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" /> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" /> </div>
+🌱 Currently
+┌───────────────────────────────────────────────┐
+│                                               │
+│  💻 Building      →  Full-Stack Applications │
+│  📚 Learning      →  Better Engineering      │
+│  🧠 Improving     →  Problem Solving         │
+│  🚀 Exploring     →  Modern Technologies     │
+│  🎯 Goal          →  Build Impactful Software│
+│                                               │
+└───────────────────────────────────────────────┘
+
+💡 My Development Philosophy
+<div align="center">
+
+"Don't just write code. Build something useful."
+
+<br>
+
+Think → Design → Build → Test → Improve → Ship 🚀
+
+</div>
 🤝 Let's Connect
+<div align="center">
 
-If you're interested in software development, collaboration, technology, or building something interesting, feel free to connect.
+I'm always open to connecting with developers, engineers, recruiters, and people who enjoy building with technology.
 
-<p align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-<p align="center">
-Build with purpose. Learn continuously. Ship confidently. 🚀
-</p>
+<br> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+<div align="center">
+BUILD • LEARN • IMPROVE • REPEAT
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" /> </div>
