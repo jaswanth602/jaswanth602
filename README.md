@@ -91,55 +91,6 @@ Database Integration
 
 </td> </tr> </table> <br>
 <div align="center">
-04 — FEATURED PROJECTS
-<br>
-🚀 Selected Work
-</div> <table align="center"> <tr> <td width="50%" valign="top">
-🔷 Project One
-
-Full-Stack Application
-
-A short description explaining what the application does and the problem it solves.
-
-Stack
-
-React Java MySQL
-
-<br> <a href="YOUR_PROJECT_URL"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=flat-square&logo=github&logoColor=0D1117" /> </a> </td> <td width="50%" valign="top">
-🟣 Project Two
-
-Web Application
-
-A short description explaining what the application does and the problem it solves.
-
-Stack
-
-PHP JavaScript MySQL
-
-<br> <a href="YOUR_PROJECT_URL"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=flat-square&logo=github&logoColor=0D1117" /> </a> </td> </tr> <tr> <td width="50%" valign="top">
-🟢 Project Three
-
-Responsive Web Application
-
-A short description explaining what the application does and the problem it solves.
-
-Stack
-
-HTML CSS JavaScript Bootstrap
-
-<br> <a href="YOUR_PROJECT_URL"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=flat-square&logo=github&logoColor=0D1117" /> </a> </td> <td width="50%" valign="top">
-🟠 Project Four
-
-Coming Soon
-
-More projects, experiments, and ideas are on the way.
-
-<br><br>
-
-BUILDING...
-
-</td> </tr> </table> <br>
-<div align="center">
 05 — GITHUB ANALYTICS
 <br> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" />
 
